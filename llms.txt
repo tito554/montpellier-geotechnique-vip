@@ -1,0 +1,52 @@
+# Geotechnique — Montpellier
+
+> Geotechnical engineering services in Montpellier, France.
+
+## Services
+- [Amelioration Sols](https://montpellier.geotechnique.vip/amelioration-sols/)
+- [Ancrages](https://montpellier.geotechnique.vip/ancrages/)
+- [Cbr Routier](https://montpellier.geotechnique.vip/cbr-routier/)
+- [Chaussee Rigide](https://montpellier.geotechnique.vip/chaussee-rigide/)
+- [Chaussee Souple](https://montpellier.geotechnique.vip/chaussee-souple/)
+- [Colonnes Ballastees](https://montpellier.geotechnique.vip/colonnes-ballastees/)
+- [Densite Cone Sable](https://montpellier.geotechnique.vip/densite-cone-sable/)
+- [Essai Cpt](https://montpellier.geotechnique.vip/essai-cpt/)
+- [Essai Plaque Charge](https://montpellier.geotechnique.vip/essai-plaque-charge/)
+- [Excavations](https://montpellier.geotechnique.vip/excavations/)
+- [Excavations Profondes](https://montpellier.geotechnique.vip/excavations-profondes/)
+- [Fondations](https://montpellier.geotechnique.vip/fondations/)
+- [Geophysique](https://montpellier.geotechnique.vip/geophysique/)
+- [Geotechnique Routiere](https://montpellier.geotechnique.vip/geotechnique-routiere/)
+- [Granulometrie](https://montpellier.geotechnique.vip/granulometrie/)
+- [Injections](https://montpellier.geotechnique.vip/injections/)
+- [Investigation](https://montpellier.geotechnique.vip/investigation/)
+- [Isolation Sismique](https://montpellier.geotechnique.vip/isolation-sismique/)
+- [Labo In Situ](https://montpellier.geotechnique.vip/labo-in-situ/)
+- [Laboratoire](https://montpellier.geotechnique.vip/laboratoire/)
+- [Limites Atterberg](https://montpellier.geotechnique.vip/limites-atterberg/)
+- [Liquefaction](https://montpellier.geotechnique.vip/liquefaction/)
+- [Masw](https://montpellier.geotechnique.vip/masw/)
+- [Microzonage Sismique](https://montpellier.geotechnique.vip/microzonage-sismique/)
+- [Murs Soutenement](https://montpellier.geotechnique.vip/murs-soutenement/)
+- [Permeabilite In Situ](https://montpellier.geotechnique.vip/permeabilite-in-situ/)
+- [Pieux](https://montpellier.geotechnique.vip/pieux/)
+- [Puits Inspection](https://montpellier.geotechnique.vip/puits-inspection/)
+- [Radiers](https://montpellier.geotechnique.vip/radiers/)
+- [Refraction Sismique](https://montpellier.geotechnique.vip/refraction-sismique/)
+- [Resistivite](https://montpellier.geotechnique.vip/resistivite/)
+- [Semelles](https://montpellier.geotechnique.vip/semelles/)
+- [Sismique](https://montpellier.geotechnique.vip/sismique/)
+- [Sondages Spt](https://montpellier.geotechnique.vip/sondages-spt/)
+- [Stabilite Talus](https://montpellier.geotechnique.vip/stabilite-talus/)
+- [Surveillance Excavations](https://montpellier.geotechnique.vip/surveillance-excavations/)
+- [Talus](https://montpellier.geotechnique.vip/talus/)
+- [Triaxial](https://montpellier.geotechnique.vip/triaxial/)
+- [Tunnels Sol Mou](https://montpellier.geotechnique.vip/tunnels-sol-mou/)
+- [Vibrocompactage](https://montpellier.geotechnique.vip/vibrocompactage/)
+
+## Contact
+- Website: https://montpellier.geotechnique.vip/
+
+## About
+This site provides geotechnical engineering services in Montpellier, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
